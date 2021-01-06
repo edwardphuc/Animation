@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Animation
+//  AnimationTest
 //
-//  Created by Edward Lauv on 1/4/21.
+//  Created by Edward Lauv on 1/6/21.
 //
 
 import UIKit
